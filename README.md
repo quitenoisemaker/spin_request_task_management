@@ -4,6 +4,10 @@
 
 ## Installation
 
+Prerequisites
+
+    php 8.2
+
 Clone the repository
 
     git clone https://github.com/quitenoisemaker/spin_request_task_management.git
