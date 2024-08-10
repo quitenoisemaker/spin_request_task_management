@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Models\TaskManager;
-use Illuminate\Http\Request;
 use App\Http\Requests\TaskManagerStoreRequest;
 use Symfony\Component\HttpFoundation\Response;
 use App\Http\Requests\TaskManagerUpdateRequest;
